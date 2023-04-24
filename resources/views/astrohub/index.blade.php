@@ -46,6 +46,7 @@
                 <button class="btn">Get Started</button>
             </div>
             <img src="{{ asset('img/earth.svg') }}" alt=" earth" class="more-info_hero-img">
+
         </section>
 
         <section>

@@ -8,8 +8,13 @@
     <!-- GENERAL STYLESHEET -->
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
+    <!-- LOGIN STYLESHEET -->
+    <link rel="stylesheet" href="{{ asset('css/login.css') }}">
+
     <!-- FAVICON -->
     <link rel="icon" href="{{ asset('img/favicon.png') }}" image="/x-icon">
+
+    <script src="{{ asset('js/app.js') }}"></script>
 
     <title>{{ $title }}</title>
 

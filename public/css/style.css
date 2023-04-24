@@ -19,7 +19,7 @@ body {
        position: fixed;
        top: 0;
        left: 0;
-       background: url('../asset/bg.svg');
+       background: url('../img/bg.svg');
        background-size: cover;
        width: 100%;
        height: 100vh;
