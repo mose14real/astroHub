@@ -8,6 +8,9 @@
     <!-- GENERAL STYLESHEET -->
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
+    <!-- FAVICON -->
+    <link rel="icon" href="{{ asset('img/favicon.png') }}" image="/x-icon">
+
     <title>{{ $title }}</title>
 
 </head>
